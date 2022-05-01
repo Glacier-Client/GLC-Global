@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Service] - [release] - yyyy-mm-dd
 
 ---
-## [Discord] - [0.0.1] - 2022-05-01
+## [Discord] - [0.0.2] - 2022-05-01
 ### Added
 * added live changlog in channel.
 ---
