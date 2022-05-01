@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.0] - 2022-05-01
 ### Added
 * Changelog to project.
+* added changelog on website at https://www.glacierclient.net/resources/changelog.html to autoupdate this file
 ### Changed
 *
 ### Removed
