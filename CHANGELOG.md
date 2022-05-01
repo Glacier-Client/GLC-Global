@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Service]
 ### [release] - yyyy-mm-dd
 
+---
+
 ## [Global & Website]
 ### [0.0.0] - 2022-05-01
 #### Added
@@ -16,3 +18,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 *
 #### Removed
 *
+---
