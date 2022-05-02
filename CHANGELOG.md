@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Service] - [release] - yyyy-mm-dd
 
+
+---
+## [Website Full Version] - [1.0.0] - 2022-05-02
+### Added
+* Discord Advertisement in home page
+* Added client trailer in the home page
+### Changed
+* How staff resizing works
+* Linked updates to this changelog
+* Fixed footer not staying on the bottom of the screen
+* Support mobile navigation not working
+### Removed
+* Nothing
 ---
 ## [Discord] - [0.0.2] - 2022-05-01
 ### Added
