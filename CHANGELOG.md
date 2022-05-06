@@ -6,7 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Service] - [release] - yyyy-mm-dd
 
-
+---
+## [Launcher] - [1.0.4.4] - 2022-04-30
+### Added
+* Nothing
+### Changed
+* Fixed Bug that made the whole Launcher unusable 
+### Removed
+* Nothing
 ---
 ## [Website Full Version] - [1.0.0] - 2022-05-02
 ### Added
